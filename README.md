@@ -8,5 +8,4 @@
 - Trinh Phu Quang
 <br></br>
 ### Demo Image
-[demo image](https://drawsql.app/hust-16/diagrams/weight-track)
-![Demo Image for DB](/minhhoa_db.png)
+![Demo Image for DB](/minhhoa_db.jpg)
