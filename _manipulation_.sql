@@ -1,6 +1,5 @@
 use weight_tracker
 
-
 /*Update BMI index = weight /(height^2) with weight in kg, height in m*/
 update Body_index set [BMI] = [Weight]*10000/([Height]*[Height])
 select * from [Body_index]
@@ -236,6 +235,5 @@ where [Sex] = 0
 
 ---recalc Tier
 exec update_index
-
 END
 GO
