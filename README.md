@@ -8,4 +8,4 @@
 - Trinh Phu Quang
 <br></br>
 ### Demo Image
-![Demo Image for DB](/minhhoa_db.jpg)
+![Demo Image for DB](/minh_hoa.jpg)
